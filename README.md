@@ -42,7 +42,7 @@ This repository contains the work and tasks related to the Infrastructure and Se
 - Nmap
 - Wireshark
 - Kali Linux
-- GitHub
+  
 
 ---
 
