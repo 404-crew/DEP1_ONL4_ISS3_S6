@@ -2,7 +2,7 @@
 
 ![Cybersecurity](https://img.shields.io/badge/Track-Cybersecurity-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
-![Team](https://img.shields.io/badge/Team-ISS3_S6-orange)
+![Team](https://img.shields.io/badge/Team-404crew-orange)
 
 ---
 
@@ -20,8 +20,8 @@
 - Kerolos nabil
 - Sherif Hassan
 - Mariz Zaki
--Toka Mahmoud 
--Nadine Mohamed
+- Toka Mahmoud 
+- Nadine Mohamed
 
 ## 🎯 Project Description
 This repository contains the work and tasks related to the Infrastructure and Security track focusing on vulnerability analysis and penetration testing concepts.
